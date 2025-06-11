@@ -1,5 +1,4 @@
-New entrant navigating the world of Tech and establishing the possibilities of revamping the tech space
-An interactive Sales & Profit Dashboard for a company called Maven Cycles. The goal is to visualize key metrics such as total revenue, profit, profit margin, and product performance across different countries and categories.
+This is an interactive Sales & Profit Dashboard for a company called Maven Cycles. The goal is to visualize key metrics such as total revenue, profit, profit margin, and product performance across different countries and categories.
 Project Scope Highlights:
 Data Import & Modelling:
 You'll work with a dataset that includes product sales, revenue, profit, and geographical information.
